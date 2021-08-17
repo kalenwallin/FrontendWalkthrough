@@ -11,8 +11,8 @@ If you'd like to follow along, you will need to have Visual Studio installed.
 3. (Optional) Remove the code in Login.cshtml and the Login page styles in site.css.
 
 ## Questions
-If you have any questions, you can email me at:
-kwallin10@huskers.unl.edu
-If I don’t respond to your within 24 hours, then contact me at: 
-kalenwallin1@gmail.com
+If you have any questions, you can email me at: <br> \n
+kwallin10@huskers.unl.edu <br>
+If I don’t respond to your within 24 hours, then contact me at: <br>
+kalenwallin1@gmail.com <br>
 (Sometimes emails don’t get through on my huskers email.)
