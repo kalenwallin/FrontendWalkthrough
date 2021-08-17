@@ -5,6 +5,11 @@ Hi my name is Kalen Wallin. I'm a junior honors student in computer science and 
 
 If you'd like to follow along, you will need to have Visual Studio installed.
 
+## Instructions
+1. Clone the repo
+2. Open the solution file in Visual Studio or double click it in the file explorer.
+3. (Optional) Remove the code in Login.cshtml and just the Login page styles in site.css.
+
 ## Questions
 If you have any questions, you can email me at:
 kwallin10@huskers.unl.edu
